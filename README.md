@@ -153,6 +153,6 @@ This project is intended for educational purposes and uses data provided by NASA
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by **Isabela Miranda]**
 
-Software Engineer | Web Developer
+Future Software Engineer 
