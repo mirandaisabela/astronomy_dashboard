@@ -1,4 +1,4 @@
-.# Astronomy Daily – NASA APOD Web App
+## Astronomy Daily – NASA APOD Web App
 
 A web application that displays daily astronomical content using NASA’s **Astronomy Picture of the Day (APOD) API**. The project was built with modern frontend tooling and focuses on API consumption, clean code, and responsive UI.
 
